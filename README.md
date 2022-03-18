@@ -136,7 +136,7 @@ Numbers MUST have country codes! The script will add "+" prefix to the number so
 
 Just double-click app.exe and it should open up to the GUI app.
 
-Make sure ```whatsApp.ico``` and ```merchantContract.csv``` are inside the same folder.
+Make sure ```whatsapp.ico``` and ```merchantContract.csv``` are inside the same folder.
 
 ***
 
