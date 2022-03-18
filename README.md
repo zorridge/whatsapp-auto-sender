@@ -132,9 +132,11 @@ Numbers MUST have country codes! The script will add "+" prefix to the number so
 
 ### Using app.exe
 
-![image](https://user-images.githubusercontent.com/86993236/159032873-ed57de55-9fcd-4e0b-a679-b3a56a7065d3.png)
+![image](https://user-images.githubusercontent.com/86993236/158977241-a3264236-2445-4fa0-9e88-7f9c9512127c.png)
 
-Just double-click app.exe and it should open up to the GUI and your device's terminal. No, the terminal is not a virus.
+Just double-click app.exe and it should open up to the GUI app.
+
+Make sure ```whatsApp.ico``` and ```merchantContract.csv``` are inside the same folder.
 
 ***
 
@@ -182,7 +184,7 @@ You will be greeted with this lovely pop-up:
 
 ![image](https://user-images.githubusercontent.com/86993236/159037722-cfa563f5-9611-4d39-a0b7-e47b10e1091c.png)
 
-*OPTIONAL: Under the hood the function doing the work is running on a separate thread from the main thread that is displaying the GUI so even if you close the GUI the function will still run. So yes you can end the program by closing the terminal but let us stick to the "Kill" button please. Moving on.*
+*OPTIONAL: Under the hood the function doing the work is running on a separate thread from the main thread that is displaying the GUI so even if you close the GUI the function will still run. To completely kill the script, either use the "Kill" button or close app.exe via Task Manager.*
 
 ![image](https://user-images.githubusercontent.com/86993236/159038912-e849b89f-3df6-41cb-b9ab-1f93d23ba75f.png)
 
@@ -198,15 +200,9 @@ Congratulations, you just killed my boy.
 
 You can re-run it by pressing "Submit" again.
 
-***
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-### Terminal
 
-![image](https://user-images.githubusercontent.com/86993236/159040980-7d7a6af9-bae4-4d2f-87d2-5c657afb8a67.png)
-
-Ahhh don't worry about him, he's just chilling.
-
-For now the terminal will just log the same status as the app. For now...
 
 ## Troubleshooting
 
@@ -215,3 +211,6 @@ Please kindly make sure you have strictly adhered to the comments labelled as IM
 Do feel free to reach out to me and we can figure this out together.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
