@@ -80,7 +80,7 @@ Ensure that the latest version of Python 3 is installed (written in Python 3.10.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/zorridge/whatsapp-automation.git
+   git clone https://github.com/zorridge/whatsapp-auto-sender.git
    ```
 2. Install required modules
    ```sh
