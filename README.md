@@ -6,6 +6,7 @@
   <ol>
     <li><a href="#disclaimer">Disclaimer</a></li>
     <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#demo">Demo</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#troubleshooting">Troubleshooting</a></li>
@@ -56,6 +57,15 @@ View source code [here](/app.py).
 * [Python](https://www.python.org/)
 * [PyAutoGui](https://pyautogui.readthedocs.io/en/latest/)
 * [Tkinter](https://tkdocs.com/tutorial/index.html)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- DEMO -->
+## DEMO
+
+https://user-images.githubusercontent.com/86993236/161220534-4e9be970-f3a8-4ff6-a810-28c60cac1118.mp4
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
