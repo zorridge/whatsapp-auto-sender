@@ -63,7 +63,9 @@ View source code [here](/app.py).
 
 
 <!-- DEMO -->
-## DEMO
+## Demo
+
+Adjust playback speed at the bottom right corner!
 
 https://user-images.githubusercontent.com/86993236/161220534-4e9be970-f3a8-4ff6-a810-28c60cac1118.mp4
 
