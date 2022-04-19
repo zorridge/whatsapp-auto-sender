@@ -1,5 +1,7 @@
 # Automated WhatsApp Bulk Messaging
 
+Download the executable here: https://bit.ly/whatsappAutoSender (Google Drive)
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -76,9 +78,9 @@ https://user-images.githubusercontent.com/86993236/161220534-4e9be970-f3a8-4ff6-
 <!-- GETTING STARTED -->
 ## Getting Started
 
-I have compiled the script as an executable, so ignore the below if you are running ```app.exe```.
+The executable can be downloaded from [here](https://bit.ly/whatsappAutoSender).
 
-But if you'd like to get a local copy up and running, follow these steps below (Windows):
+If you'd like to get a local copy up and running, follow these steps below (Windows):
 
 ### Prerequisites
 
