@@ -1,6 +1,6 @@
 # Automated WhatsApp Bulk Messaging
 
-Download the executable here: https://bit.ly/whatsappAutoSender (Google Drive)
+Download the executable here: https://github.com/zorridge/whatsapp-auto-sender/releases
 
 <!-- TABLE OF CONTENTS -->
 <details>
